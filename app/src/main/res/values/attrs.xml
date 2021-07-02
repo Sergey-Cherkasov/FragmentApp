@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExamsActionView">
+        <attr name="examsCard_Color" />
+        <attr name="timerCard_Color" />
+    </declare-styleable>
+
+    <attr name="examsCard_Color" format="reference|color" />
+    <attr name="timerCard_Color" format="reference|color" />
+</resources>
